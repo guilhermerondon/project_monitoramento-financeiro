@@ -1,0 +1,4 @@
+yfinance
+pika
+requests
+schedule

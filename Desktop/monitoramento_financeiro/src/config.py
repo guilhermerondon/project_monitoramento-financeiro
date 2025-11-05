@@ -1,0 +1,3 @@
+ATIVOS = ["AAPL", "BTC-USD", "PETR4.SA"]
+LIMITE_VARIACAO = 5  # %
+INTERVALO_COLETA = 60  # segundos
